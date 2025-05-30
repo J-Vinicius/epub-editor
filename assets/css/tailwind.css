@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+@layer theme {
+  :root {
+    --background: oklch(0.1822 0 0);
+    --foreground: oklch(0.9581 0 0);
+    --accent: oklch(0.4027 0.0709 149.42);
+    --muted: oklch(0.2753 0 27.11);
+  }
+}
+
+@layer base {
+  * {
+    background-color: var(--background);
+    color: var(--foreground);
+  }
+}
