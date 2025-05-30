@@ -22,7 +22,7 @@ Aqui está um planejamento completo para um aplicativo web de criação de EPUB 
 - Criar/abrir/salvar projetos EPUB
 - Estrutura de pastas organizada (capítulos, imagens, estilos)
 - Auto-save e versionamento local
-- Exportação para arquivo .epub
+- Exportação para arquivo ´.epub´
 
 ### 3. Editor de Conteúdo
 - Editor WYSIWYG com markdown support
